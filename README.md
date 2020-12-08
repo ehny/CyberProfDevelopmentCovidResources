@@ -4,51 +4,58 @@ An awesome list of resources for training, conferences, speaking, labs, reading,
 Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
 # CATEGORIES
-  1. Conferences
-  2. Training
-  3. Instructor Led Webinar/Labs/Workshops
-  4. Books
-  5. College Courses (Multi-week w/Enrollment)
-  6. Podcasts
-  7. YouTube Channels
-  8. News
-  9. Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
+  1. [Conferences](#conferences)
+  2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-WebinarLabsWorkshops)
+  3. [Training](#Training)
+  4. [Books](#Books)
+  5. [College Courses (Multi-week w/Enrollment)](#College-Courses)
+  6. [Podcasts](#Podcasts)
+  7. [YouTube Channels](#Cybersecurity-YouTube-Channels)
+  8. [News](#News)
+  9. [Professional Networking / (Virtual) Meetups (Discord/Slack Groups)](#Professional-Networking)
+  10. [References / Tools / Cheat Sheets](#ReferencesToolsCheat-Sheets)
   
 ## Conferences
 
-### August
-
-* **Google 0x0G 2020 Virtual** - August 4, 2020 12:00 PM  - 6:00 PM  EDT - We’re switching to safety mode, and hosting the first virtual 0x0G Lounge! Tune in for an inside look into the latest innovations within Google’s security teams. We’ll be hosting a series of Birds of a Feather talks, a panel discussion, and an info session about Careers at Google. https://careersonair.withgoogle.com/events/0x0g
-
-* **DEFCON 28** Aug 7-9 2020 - This is a very well known, premiere conference within the cybersecurity space. Check for more information as there will be villages, events, parties, talks, etc. You cannot register yet, but details here: https://www.defcon.org/html/defcon-28/dc-28-index.html
-
-* **SXOS 2.0 SiberX** Aug 10-14 2020 - siberXchange is a global community of cybersecurity leaders and professionals representing leading organizations across the world. Led by an advisory of cybersecurity champions, this online community has groups for problem solving, custom solutioning, networking and broadcasting. Address the global community from our reporting hub with live statistics and immersive visuals: multilingual, accessible and customized outreach. https://siberx.org/event/sxos-2-0/
-
-* **Tactical Edge Virtual Summit 2020** August 11-14 2020 - The Tactical Edge event covers a multitude of important cybersecurity topics, from the importance of awareness to pryvacy to new technological solutions using Artificial Intelligence and Machine Learning. https://tacticaledge.co/en/
-
-* **SCYTHE's UniCon** SCYTHE invites customers, researchers, and developers to sign-up for our FREE virtual conference “UniCon” on August 20, 2020 from 10:00 am - 5:30 pm EDT. https://zoom.us/webinar/register/3815947366418/WN_b4Bm9E5BSi2rhACLwiaJGw
-
-* **The Diana Initiative Virtual Conference** - Aug 21-22, 2020 - A conference focused on Women, Diversity, and Inclusion in Information Security that embraces all genders, sexualities, and skill levels. The Diana Initiative features multiple speaker tracks, fully expanded villages with hands-on workshops, and a women-led Capture the Flag event. https://www.eventbrite.com/e/the-diana-initiative-2020-tickets-112263061840
-
-* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
-
-### September
-* **JUNC 2020** 9/29/2020-10/1/2020 - Not entirely a security conference, but there are sub-sections for securing Apple devices. Apple IT administrators from around the world have rallied at the Jamf Nation User Conference (JNUC) for community presentations, deep-dive education sessions and expert product insights.  https://www.jamf.com/events/jamf-nation-user-conference/2020/faq/
-
-* **DataConnectors** 8/6, 8/19, 9/17, 9/24, 9/30, 10/8, 10/15, 10/22, 10/29, 11/5, 11/11, 11/18, 12/10 - Multiple event Virtual Cybercommunity con. Data Connectors has invested in a fully immersive virtual event platform, which provides every facet of our in-person conferences that can be facilitated online: Real-time speaking sessions, live keynotes and presenter Q&A Panel, Moderated CISO Panel, Solutions Showcase with interactive Virtual Exhibit Booths https://www.dataconnectors.com/attend/
-
-### October
-* **Cybercraft Security Summit** Oct 1-2 CyberCraft is committed to connecting and enhancing the Cybersecurity and Anti-Fraud communities. After all, it’s all about fighting against the bad guys whether they are stealing data, money or both. https://cybercraftsummit.com/
-
-* **ShellCon** Oct 9-10 ShellCon is an information security conference that is held annually in the beautiful beach cities of Los Angeles. Our conference is a growing event that creates an atmosphere of open communication, collaboration, and connection. We value community, technical knowledge, and getting your hands dirty. Presentations and events at the con will have a focus on practicality and real-world applications. We want you to walk away from ShellCon with an itch to try what you just learned and the knowledge to do so. https://shellcon.io/
 
 ### November
+
+* **0xcon 2020** - 14 Nov 2020 • 8AM SAST - 0xcon is a community-driven event by South African hackers and security researchers. 5 local speakers, 1 epic security challenge, 100% free. It will be online this year due to COVID-19. https://hacksouth.africa/conferences/0xcon-2020/
+
+* **SO-CON 2020** - Mon, Nov 16 ‐ Fri, Nov 20 • 12:00 PM EST - SO-CON 2020 is a virtual event consisting of 4 training courses and free talks / workshops showcasing our team member's latest work. SO-CON 2020 is our first live virtual security conference being held on November 16 - 20, 2020. The event will consist of 4 training courses, two new and updated versions of our current courses, running November 16th-19th, 2020 (Monday - Thursday). Talks and workshops will be held live November 20th, 2020 (Friday). https://www.eventbrite.com/e/so-con-2020-tickets-118671819607
+
+* **CyberCrimeCon 2020** - Nov 25-27 - CyberCrimeCon brings together cutting-edge cybersecurity professionals and independent researchers from financial and tech sectors, large retail and industrial companies, and law enforcement agencies. Its purpose is to present the latest research findings and share expertise in order to prevent, detect, and respond to security challenges. CyberCrimeCon is intended for a variety of participants: CISOs, CIOs, threat hunters & threat researchers, incident responders and investigators, SOC experts, TI analysts, pentesters, and more. https://virtual.group-ib.com/
+
 * **AWS RE:Invent** NOV. 30 – DEC. 18, 2020 - AWS Major conference. Will cover more then security, but worth being on the list. https://reinvent.awsevents.com/
+
+### December
+
+* **GRIMMCON 0x3** GRIMMCon 0x3 will be 30 DEC 20, 1100 - 1900 ET. Cybersecurity conference. LINK TO FOLLOW
+
+### 2021
+
+* **ICS Security Summit & Training 2021** - Virtual, US Eastern | Thu, Mar 4 - Sat, Mar 13, 2021 - Live Online The annual ICS Security Summit brings together the industry’s top practitioners and leading experts from around the globe to share actionable ideas, methods, and techniques for safeguarding critical infrastructures. In-depth talks and interactive panel discussions deliver proven advances and approaches that make a real difference for the individuals leading this fight every day. https://www.sans.org/event/ics-security-summit-2021
 
 ### Archived/Replay
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
 
 
+## Instructor Led Webinar/Labs/Workshops
+
+
+### November
+
+* **How to Cover C&C in the MITRE ATT&CK Matrix w/ Chris Brenton (1-Hour)** - Wed, Nov 11, 2020 2:00 PM - 3:00 PM EST - We all look to the Mitre ATT@CK Matrix for guidance on understanding attack techniques as well as mitigating their risks. If you want to take a strong defense in-depth approach, you will want to ensure you have coverage of each framework category. Arguably, one of the most difficult columns to both test and implement is the Command and Control column. The techniques described can be some of the most challenging to implement. In this webcast, we'll run down the command and control column to identify how we can both detect and test each described threat vector. https://register.gotowebinar.com/register/1491623173719928847
+
+* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
+
+* **Play to Win: Getting Your Dream Cybersecurity Job w/ Kip Boyle (1-Hour)** - Wed, Nov 18, 2020 1:00 PM - 2:00 PM EST - You want your first cybersecurity job. Or, you're ready for your next promotion, maybe at another company. Do you have the right education, skills, and certifications? Which organization should you apply at? How do you actually get in front of the hiring manager? What do you say during the interview? Do you have enough experience to even get an interview? Is it a good idea to try to get a new job during a pandemic? In this session, we'll examine a proven, four-step approach that will help you navigate the road blocks, confusion, and false starts. https://attendee.gotowebinar.com/register/8356289880609584654
+
+### December
+
+* **Training Course: SOC Core Skills w/ John Strand (16 Hours - Pay What You Want)** - Mon, Dec 14, 2020 11:00 AM - 4:00 PM EST, Tue, Dec 15, 2020 12:00 PM - 4:00 PM EST, Wed, Dec 16, 2020 12:00 PM - 4:00 PM EST, Thu, Dec 17, 2020 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. These are the skills that all Black Hills Information Security (BHIS) SOC team members need to have.  Topics to include:1. Core networking skills 2. Live Windows Forensics 3. Live Linux Forensics 4. Memory Forensics 5. Active Directory Analysis 6. Network Threat Hunting 7. Basics of Vulnerability Management 8. The Incident Response Process. All sections will have hands-on labs. https://register.gotowebinar.com/register/3144928021640124683
+
+* **Intro to Cybersecurity: Workshop | Online - Flatiron School** - Thursday, December 17  6:30 PM ‐ 8:00 PM EST - Looking to understand core concepts of cybersecurity? Join us for a beginner friendly overview of what you need to know about this field. In this virtual event, one of Flatiron School Cybersecurity instructors will provide insight on the knowledge areas that aspiring cyber professionals need to know. https://www.eventbrite.com/e/intro-to-cybersecurity-workshop-online-tickets-130022026381
 
 
 ## Training
@@ -141,34 +148,82 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 
 * **NETINSTRUCT.COM** Free Cybersecurity, IT and Leadership Courses - Includes OS and networking basics. Critical to any Cyber job. https://netinstruct.com/courses
 
-*	**HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
+* **HackerSploit** - HackerSploit is the leading provider of free and open-source Infosec and cybersecurity training. https://hackersploit.org/
 
-## Instructor Led Webinar/ Labs / Workshops
+**PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
 
-### August
+* **Academy Hackaflag** (Spanish) https://academy.hackaflag.com.br/
 
-* **Excellent Architecture to Avoid Common Mistakes in Security Operations Centers w/ Chris Crowley (1-Hour)** - Mon, Aug 3, 2020 1:00 PM - 2:00 PM EDT - Attend this talk to hear the components of a SOC that make it feel like the full architecture has been considered: Organizational interfaces in strategic and tactical ways; Monitoring, Threat Intelligence, Incident Handling, Forensics, and IT self-assessment. https://attendee.gotowebinar.com/register/4670498204276058126
+* **Try Hack Me** https://tryhackme.com/
 
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops August 8 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
+* **Attack-Defense** https://attackdefense.com/
 
-* **Cyber Threat Hunting w/ John Strand - August Session (4-Hours)** Tue, Aug 11, 2020 11:45 AM - 4:00 PM EDT - By the end of the course, you’ll understand the tools and techniques needed to perform compromise assessments within your own environment. While the course will be available later for download, live attendees will receive a "Cyber Security Threat Hunter Level-1" certificate.https://register.gotowebinar.com/register/4039466489309086736?source=BHISdisc
+* **alert to win** https://alf.nu/alert1
 
-* **Intro to Tabletop Exercises w/ Amanda Berlin & Jeremy Mio (1-Hour)** - Wed, Aug 12, 2020 1:00 PM - 2:00 PM EDT - When testing responses, defenses, and detections of an environment one of the main tools that can be used is a tabletop exercise. A tabletop exercise is a meeting of key stakeholders and staff who walk step by step through the mitigation of some type of disaster, malfunction, attack, or other emergency in a low stress situation. In this short training webinar, we will walk through two basic exercises from beginning to end, covering what helpful structure, items, and activities should be included. We will then follow up each exercise with an after action report to recap. Participants will receive four total tabletops to take and use after the webinar as well as the template for the after action report. https://register.gotowebinar.com/register/2949001644938004752
+* **CTF Komodo Security** https://ctf.komodosec.com/
 
-* **Workshop: Linux and Security Basics; Hands-On w/ Bill Stearns (4-Hours)** - Tue, Aug 18, 2020 11:00 AM - 4:00 PM EDT - We'd like to invite you to get up to speed with the Linux operating system, and specifically networking and security commands!  Maybe you've not used Linux, or you have and just aren't comfortable with using the command line.  Here's your chance to see the instructor run them, try them yourself, and learn more about what they do. https://register.gotowebinar.com/register/1890954799577820683
+* **CMD Challenge** https://cmdchallenge.com
 
-* **How to Stay Secure in the Cloud with Center for Internet Security (CIS)** August 19, 2020 12:00 PM (America/New_York) The Center for Internet Security (CIS) provides organizations with a collection of integrated cybersecurity resources. These resources help evaluate and apply secure configuration settings to various cloud environments. With our global community of cybersecurity experts, we develop the CIS Controls and CIS Benchmarks. These best practices offer prescriptive guidance and configuration recommendations for various technology groups to safeguard systems against today’s evolving cyber threats. https://microsoftcloudpartner.eventbuilder.com/event/22628?source=ACOM
+* **Explotation Education** https://exploit.education/
 
-### September
+* **Google CTF** https://capturetheflag.withgoogle.com/
 
-* **Workshop: Introduction to Hacking** by Fullstack Cyber Workshops Sept 5 2020 - From flyer - We’ll talk about some of the most common methods used to encrypt data, and show you some of the tactics used by "black hat" hackers to break that encryption. You'll learn a bit of theory, then go "hands on" with real-world encryption tools that cybersecurity practitioners use every day. https://www.eventbrite.com/e/workshop-introduction-to-hacking-tickets-104979231708 
+* **HackTheBox** https://www.hackthebox.eu
 
-### October
+* **Hackthis** https://www.hackthis.co.uk
 
-* **ELI5: x86_64 Exploit Development Fundamentals w/ John Ryan & Adrian Abdala (2-Hours)** - Wed, Oct 14, 2020 12:30 PM - 3:00 PM EDT - Do the phrases “exploit development” or “buffer overflow” intimidate you? Maybe you’ve only heard the words, but they sound too advanced to learn. Maybe you performed one or two buffer overflows while pursuing a certification, but you still don’t quite understand the underlying mechanics of compiled software exploitation. In this 2-hour workshop-style webcast, we’re going to dive into key concepts of computer organization to learn how x86_64 Linux software journeys from C source code to become a functional program in computer memory – ready to be exploited. https://register.gotowebinar.com/register/6536568447332186379
+* **Hacksplaining** https://www.hacksplaining.com/exercises
 
-### November
-* **Getting Started in Security with BHIS and MITRE ATT&CK w/ John Strand** ($0-395, Pay What You Want) Mon, Nov 16, 2020 11:00 AM – 4:00 PM EST Tue, Nov 17, 2020 12:00 PM – 4:00 PM EST Wed, Nov 18, 2020 12:00 PM – 4:00 PM EST Thu, Nov 19, 2020 12:00 PM – 4:00 PM EST - "This 16-hour (4-days, 4-hour sessions) information security training class is designed for people who are new to computer security. We will cover the core fundamentals with lots of hands-on labs demonstrating the attacks and defenses every security professional must know to be successful." https://wildwesthackinfest.com/online-training/getting-started-in-security-with-bhis-and-mitre-attk/
+* **Hacker101** https://ctf.hacker101.com
+
+* **Hacker Security** https://capturetheflag.com.br/
+
+* **Hacking-Lab** https://www.hacking-lab.com/index.html
+
+* **ImmersiveLabs** https://immersivelabs.com/
+
+* **Labs Wizard Security** https://labs.wizard-security.net
+
+* **NewbieContest** https://www.newbiecontest.org/
+
+* **OverTheWire** http://overthewire.org
+
+* **Practical Pentest Labs** https://practicalpentestlabs.com
+
+* **Pentestlab** https://pentesterlab.com/
+
+* **Penetration Testing Practice Labs** http://www.amanhardikar.com/mindmaps/Practice.html
+
+* **PentestIT LAB** https://lab.pentestit.ru
+
+* **PicoCTF** https://picoctf.com
+
+* **PWNABLE** https://pwnable.kr/play.php
+
+* **Root-Me** https://www.root-me.org/
+
+* **Root in Jail** http://ctf.rootinjail.com
+
+* **Shellter** https://shellterlabs.com/pt/
+
+* **SANS Challenger** https://www.holidayhackchallenge.com/
+
+* **SmashTheStack** http://smashthestack.org/wargames.html
+
+* **Try Hack Me** https://tryhackme.com/
+
+* **The Cryptopals Crypto Challenges** https://cryptopals.com/
+
+* **Vulnhub** https://www.vulnhub.com
+
+* **W3Challs** https://w3challs.com/
+
+* **WHO4REYOU** https://34.73.111.210
+
+* **WeChall** http://www.wechall.net/
+
+* **Zenk-Security** https://www.zenk-security.com/epreuves.php
+
 
 ## Books
 * **Building Secure & Reliable Systems**
@@ -188,7 +243,7 @@ Valid at least through July, Springer is providing free access to several hundre
 * **Texas A&M Security Courses** The web-based courses are designed to ensure that the privacy, reliability, and integrity of the information systems that power the global economy remain intact and secure. The web-based courses are offered through three discipline-specific tracks: general, non-technical computer users; technical IT professionals; and business managers and professionals. https://teex.org/program/dhs-cybersecurity/ 
 
 
-## College Courses (Multi-week w/Enrollment)
+## College Courses
 
 * **Computer Science courses with video lectures** Intent of this list is to act as Online bookmarks/lookup table for freely available online video courses. Focus would be to keep the list concise so that it is easy to browse. It would be easier to skim through 15 page list, find the course and start learning than having to read 60 pages of text. If you are student or from non-CS background, please try few courses to decide for yourself as to which course suits your learning curve best. https://github.com/Developer-Y/cs-video-courses?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com
 
@@ -379,7 +434,9 @@ _This list was originally forked/curated from here: https://wportal.xyz/collecti
 
 * **SecuriTeam** - A free and independent source of vulnerability information. https://securiteam.com/
 
-## Professional Networking / (Virtual) Meetups
+* **SANS NewsBites** - "A semiweekly high-level executive summary of the most important news articles that have been published on computer security during the last week. Each news item is very briefly summarized and includes a reference on the web for detailed information, if possible." Published for free on Tuesdays and Fridays. https://www.sans.org/newsletters/newsbites
+
+## Professional Networking
 ### Discord and Slack (Networking and Communication Opportunities)
 _I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_
 * **Metasploit Official Public** Slack https://metasploit.com/slack
@@ -403,12 +460,226 @@ _The follow channels I'm not a member of and cuarted but have not validated thei
 * **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. https://meetcyber.net/
 
 
-## TBD Section (Maybe References or Tools) _work in progress down here_
-* **Exploit Database** - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
-* **VirusTotal**
-* **Any.Run**
-* **Cheatsheets** 
+## References/Tools/Cheat Sheets
 
+**Malware Analysis**
+* VirusTotal - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community https://www.virustotal.com/gui/
 
+* Any.Run Malware hunting with live access to the heart of an incident https://any.run/
 
+**Cheatsheets**
+* Privilege-Escalation: This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+https://github.com/Ignitetechnologies/Privilege-Escalation
+
+* Malware analysis tools and resources.
+https://github.com/rshipp/awesome-malware-analysis
+
+* Analyzing Malicious Documents Cheat Sheet
+https://zeltser.com/analyzing-malicious-documents/
+
+* ReverseEngineering Cheat Sheet
+https://www.cybrary.it/wp-content/uploads/2017/11/cheat-sheet-reverse-v6.png
+
+* SQL Injection | Various DBs
+http://pentestmonkey.net/category/cheat-sheet/sql-injection
+
+* Nmap Cheat Sheet and Pro Tips
+https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+
+* PENTESTING LocalFileInclude Cheat Sheet
+https://highon.coffee/blog/lfi-cheat-sheet/
+
+* Penetration Testing Tools Cheat Sheet
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+* Reverse Shell Cheat Sheet
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+
+* nbtscan Cheat Sheet
+https://highon.coffee/blog/nbtscan-cheat-sheet/
+
+* Linux Commands Cheat Sheet
+https://highon.coffee/blog/linux-commands-cheat-sheet/
+
+* Kali Linux Cheat Sheet
+https://i.redd.it/9bu827i9tr751.jpg
+
+* Hacking Tools Cheat Sheet (Diff tools)
+https://i.redd.it/fviaw8s43q851.jpg
+
+* Google Search Operators: The Complete List (42 Advanced Operators)
+https://ahrefs.com/blog/google-advanced-search-operators/
+
+* (Multiple) (Good) Cheat Sheets - Imgur
+https://imgur.com/gallery/U5jqgik
+
+* Active-Directory-Exploitation-Cheat-Sheet: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
+* Shodan Query Filters
+https://github.com/JavierOlmedo/shodan-filters
+
+* Getting Real with XSS - A reference on the new technquies to XSS
+https://labs.f-secure.com/blog/getting-real-with-xss/
+
+**SANS Massive List of Cheat Sheets** Curated from here: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+
+**_General IT Security_**
+* Windows and Linux Terminals & Command Lines https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltea7de5267932e94b/5eb08aafcf88d36e47cf0644/Cheatsheet_SEC301-401_R7.pdf
+
+* TCP/IP and tcpdump
+https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog
+
+* IPv6 Pocket Guide
+https://www.sans.org/security-resources/ipv6_tcpip_pocketguide.pdf?msc=Cheat+Sheet+Blog
+
+* Powershell Cheat Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltf146e4f361db3938/5e34a7bc946d717e2eab6139/power-shell-cheat-sheet-v41.pdf
+
+* Writing Tips for IT Professionals
+https://zeltser.com/writing-tips-for-it-professionals/
+
+* Tips for Creating and Managing New IT Products
+https://zeltser.com/new-product-management-tips/
+
+* Tips for Getting the Right IT Job
+https://zeltser.com/getting-the-right-it-job-tips/
+
+* Tips for Creating a Strong Cybersecurity Assessment Report
+https://zeltser.com/security-assessment-report-cheat-sheet/
+
+* Critical Log Review Checklist for Security Incidents
+https://zeltser.com/security-incident-log-review-checklist/
+
+* Security Architecture Cheat Sheet for Internet Applications
+https://zeltser.com/security-architecture-cheat-sheet/
+
+* Tips for Troubleshooting Human Communications
+https://zeltser.com/human-communications-cheat-sheet/
+
+* Security Incident Survey Cheat Sheet for Server Administrators
+https://zeltser.com/security-incident-survey-cheat-sheet/
+
+* Network DDoS Incident Response Cheat Sheet
+https://zeltser.com/ddos-incident-cheat-sheet/
+
+* Information Security Assessment RFP Cheat Sheet
+https://zeltser.com/cheat-sheets/
+
+**_Digital Forensics and Incident Response_**
+
+* SIFT Workstation Cheat Sheet
+https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Plaso Filtering Cheat Sheet
+https://digital-forensics.sans.org/media/Plaso-Cheat-Sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Tips for Reverse-Engineering Malicious Code
+https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf?msc=Cheat+Sheet+Blog
+
+* REMnux Usage Tips for Malware Analysis on Linux
+https://digital-forensics.sans.org/media/remnux-malware-analysis-tips.pdf?msc=Cheat+Sheet+Blog
+
+* Analyzing Malicious Documents
+https://digital-forensics.sans.org/media/analyzing-malicious-document-files.pdf?msc=Cheat+Sheet+Blog
+
+* Malware Analysis and Reverse-Engineering Cheat Sheet
+https://digital-forensics.sans.org/media/malware-analysis-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* SQlite Pocket Reference Guide
+https://digital-forensics.sans.org/media/SQlite-PocketReference-final.pdf?msc=Cheat+Sheet+Blog
+
+* Eric Zimmerman's tools Cheat Sheet
+https://digital-forensics.sans.org/media/EricZimmermanCommandLineToolsCheatSheet-v1.0.pdf?msc=Cheat+Sheet+Blog
+
+* Rekall Memory Forensics Cheat Sheet
+https://digital-forensics.sans.org/media/rekall-memory-forensics-cheatsheet.pdf?msc=Cheat+Sheet+Blog
+
+* Linux Shell Survival Guide
+https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf?msc=Cheat+Sheet+Blog
+
+* Windows to Unix Cheat Sheet
+https://digital-forensics.sans.org/media/windows_to_unix_cheatsheet.pdf?msc=Cheat+Sheet+Blog
+
+* Memory Forensics Cheat Sheet
+https://digital-forensics.sans.org/media/volatility-memory-forensics-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Hex and Regex Forensics Cheat Sheet
+https://digital-forensics.sans.org/media/hex_file_and_regex_cheat_sheet.pdf?msc=Cheat+Sheet+Blog
+
+* FOR518 Mac & iOS HFS+ Filesystem Reference Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf
+
+* The majority of DFIR Cheat Sheets can be found here --> https://digital-forensics.sans.org/community/cheat-sheets?msc=Cheat+Sheet+Blog.
+
+**_Penetration Testing_**
+* Swiss Army Knife collection of PenTesting Cheatsheets
+https://github.com/swisskyrepo/PayloadsAllTheThings
+
+* SQLite Injection Cheat Sheet
+https://github.com/unicornsasfuel/sqlite_sqli_cheat_sheet
+
+* SSL/TLS Vulnerability Cheat Sheet
+https://github.com/IBM/tls-vuln-cheatsheet
+
+* Windows Intrusion Discovery Cheat Sheet v3.0
+https://pen-testing.sans.org/retrieve/windows-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Intrusion Discovery Cheat Sheet v2.0 (Linux)
+https://pen-testing.sans.org/retrieve/linux-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Intrusion Discovery Cheat Sheet v2.0 (Windows 2000)
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/bltd6fa777a3215f34a/5eb08aae08d37e6d82ef77fe/win2ksacheatsheet.pdf
+
+* Windows Command Line
+https://pen-testing.sans.org/retrieve/windows-command-line-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Netcat Cheat Sheet
+https://pen-testing.sans.org/retrieve/netcat-cheat-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Misc Tools Cheat Sheet
+https://pen-testing.sans.org/retrieve/misc-tools-sheet.pdf?msc=Cheat+Sheet+Blog
+
+* Python 3 Essentials
+https://www.sans.org/blog/sans-cheat-sheet-python-3/?msc=Cheat+Sheet+Blog
+
+* Windows Command Line Cheat Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt4e45e00c2973546d/5eb08aae4461f75d77a48fd4/WindowsCommandLineSheetV1.pdf
+
+* SMB Access from Linux Cheat Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blta6a2ae64ec0ed535/5eb08aaeead3926127b4df44/SMB-Access-from-Linux.pdf
+
+* Pivot Cheat Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt0f228a4b9a1165e4/5ef3d602395b554cb3523e7b/pivot-cheat-sheet-v1.0.pdf
+
+* Google Hacking and Defense Cheat Sheet
+https://www.sans.org/security-resources/GoogleCheatSheet.pdf?msc=Cheat+Sheet+Blog
+
+* Scapy Cheat Sheet
+https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf
+
+* Nmap Cheat Sheet
+https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blte37ba962036d487b/5eb08aae26a7212f2db1c1da/NmapCheatSheetv1.1.pdf
+
+**_Cloud Security_**
+
+* Multicloud Cheat Sheet
+https://www.sans.org/security-resources/posters/cloud/multicloud-cheat-sheet-215?msc=blog-ultimate-list-cheat-sheets
+
+**_All Around Defender Primers_**
+
+* Linux CLI 101
+https://wiki.sans.blue/Tools/pdfs/LinuxCLI101.pdf
+
+* Linux CLI
+https://wiki.sans.blue/Tools/pdfs/LinuxCLI.pdf
+
+* PowerShell Primer
+https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf
+
+* PowerShell Get-WinEvent
+https://wiki.sans.blue/Tools/pdfs/Get-WinEvent.pdf
+
+**Offensive** 
+* Exploit Database - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services. https://www.exploit-db.com/
 	
