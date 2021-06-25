@@ -3,6 +3,8 @@
 An awesome list of resources for training, conferences, speaking, labs, reading, etc that are **free** all the time that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. 
 Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/GeraldAuger 
 
+# This repo is now maintained at SimplyCyber.io
+
 # CATEGORIES
   1. [Conferences](#conferences)
   2. [Instructor Led Webinar/Labs/Workshops](#Instructor-Led-WebinarLabsWorkshops)
@@ -18,13 +20,7 @@ Drop me a subscribe on YouTube and lets connect more: https://www.youtube.com/c/
 ## Conferences
 DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES CONFERENCE LISTING. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
-### December
 
-* **GRIMMCON 0x3** GRIMMCon 0x3 will be 30 DEC 20, 1100 - 1900 ET. Cybersecurity conference. LINK TO FOLLOW
-
-### 2021
-
-* **ICS Security Summit & Training 2021** - Virtual, US Eastern | Thu, Mar 4 - Sat, Mar 13, 2021 - Live Online The annual ICS Security Summit brings together the industry’s top practitioners and leading experts from around the globe to share actionable ideas, methods, and techniques for safeguarding critical infrastructures. In-depth talks and interactive panel discussions deliver proven advances and approaches that make a real difference for the individuals leading this fight every day. https://www.sans.org/event/ics-security-summit-2021
 
 ### Archived/Replay
 * **SUMMERCON 2020** -Archived- Summercon is one of the oldest hacker conventions, and the longest running such conference in America. It helped set a precedent for more modern "cons" such as H.O.P.E. and DEF CON, although it has remained smaller and more personal.  https://youtu.be/uVbrxMTrp0k
@@ -35,14 +31,10 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN CONFERENCE LISTING. DFIRDI
 DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LISTING. DFIRDIVA MAINTAINS A GREAT SITE THAT INCLUDES FREE TRAINING LISTINGS. PLEASE REFER THERE FOR THIS TYPE OF INFORMATION. https://dfirdiva.com/free-and-affordable-training
 
 
-### December
-
-* **Training Course: SOC Core Skills w/ John Strand (16 Hours - Pay What You Want)** - Mon, Dec 14, 2020 11:00 AM - 4:00 PM EST, Tue, Dec 15, 2020 12:00 PM - 4:00 PM EST, Wed, Dec 16, 2020 12:00 PM - 4:00 PM EST, Thu, Dec 17, 2020 12:00 PM - 4:00 PM EST - This 16-hour (4-days, 4-hour sessions) information security training course will cover the core security skills all Security Operation Center (SOC) analysts need to have. These are the skills that all Black Hills Information Security (BHIS) SOC team members need to have.  Topics to include:1. Core networking skills 2. Live Windows Forensics 3. Live Linux Forensics 4. Memory Forensics 5. Active Directory Analysis 6. Network Threat Hunting 7. Basics of Vulnerability Management 8. The Incident Response Process. All sections will have hands-on labs. https://register.gotowebinar.com/register/3144928021640124683
-
-* **Intro to Cybersecurity: Workshop | Online - Flatiron School** - Thursday, December 17  6:30 PM ‐ 8:00 PM EST - Looking to understand core concepts of cybersecurity? Join us for a beginner friendly overview of what you need to know about this field. In this virtual event, one of Flatiron School Cybersecurity instructors will provide insight on the knowledge areas that aspiring cyber professionals need to know. https://www.eventbrite.com/e/intro-to-cybersecurity-workshop-online-tickets-130022026381
-
 
 ## Training
+
+* **Nox Cyber** Jay Jay Davey site full of curated cybersecurity training resources. https://noxcyber.co.uk/
 
 * **WebSecurity Academy** Free online web security training from the creators of Burp Suite https://portswigger.net/web-security
 
@@ -136,6 +128,8 @@ DUE TO OTHER COMMITMENTS I'VE BEEN UNABLE TO MAINTAIN INSTRUCTOR LED WEBINAR LIS
 
 * **CyberStart America** - "A new program designed to give high school students in the US free access to cybersecurity learning resources written and developed by industry professionals, which can also be used to train and qualify for a National Cyber Scholarship." Sponsored by the SANS Institue and the National Cyber Scholarship Foundation, the program is open to high school students who are at least 13 years old and enrolled in 9th, 10th, 11th or 12th grade at a public or private school (or the homeschool equivalent) in the US. https://www.cyberstartamerica.org
 
+* **Hacking Loops** This blog is designed to support the numerous colleagues, friends and acquaintances who have asked me for advice on how to transition from certain Information Technology (IT) roles into the IT Security world. https://www.hackingloops.com/metasploit-commands/
+
 **PENTESTING TRAINING LABS** (curated from https://github.com/michelbernardods/labs-pentest) 
 
 * **Academy Hackaflag** (Spanish) https://academy.hackaflag.com.br/
@@ -222,9 +216,6 @@ By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, 
 * **The Cyber Skill Gap** By Vagner Nunes - The Cyber Skill Gap: How To Become A Highly Paid And Sought After Information Security Specialist! (Use COUPON CODE: W4VSPTW8G7 to make it free) https://payhip.com/b/PdkW
 
 * **The Beginner’s Guide to Information Security** By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM
-
-* **Free Springer Textbooks** 
-Valid at least through July, Springer is providing free access to several hundred titles in its eBook collection. Books are available via SpringerLink and can be viewed online or downloaded as PDF or EBUP files. Disciplines include computer science, networking, cryptography, digital forensics, and others. https://link.springer.com/search/page/1?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true 
 
 * **Texas A&M Security Courses** The web-based courses are designed to ensure that the privacy, reliability, and integrity of the information systems that power the global economy remain intact and secure. The web-based courses are offered through three discipline-specific tracks: general, non-technical computer users; technical IT professionals; and business managers and professionals. https://teex.org/program/dhs-cybersecurity/ 
 
